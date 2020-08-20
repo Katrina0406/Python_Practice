@@ -9,3 +9,6 @@
   * Bubble Sort
   * Merge Sort
   * QuickSort
+* ### Working with Files
+  * Open and Write Files
+  * Control Files
