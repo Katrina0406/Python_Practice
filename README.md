@@ -17,3 +17,7 @@
 * ### Working with Calendar
   * Calendar
   * Dates
+********
+* ### Functions
+  * Generators
+  * Decorators
