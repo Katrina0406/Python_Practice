@@ -4,6 +4,7 @@
   * Linked Lists
   * Stacks
   * Queues
+  * Hash Tables
 ********
 * ### Sorting Data
   * Bubble Sort
